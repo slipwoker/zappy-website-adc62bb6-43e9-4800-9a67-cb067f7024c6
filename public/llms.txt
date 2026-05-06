@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://-adc62bb6.zappy5.app
+https://example.com
 גלישולה בחוף מכמורת – בית הספר המוביל לקייטסרפינג בישראל. שיעורי קייט סרפינג לגילאי 13 ומעלה בסביבה ימית מדהימה. הצטרפו למהפכת הגלישה שלנו עוד היום!
 
 ### שיעורים
-https://-adc62bb6.zappy5.app/lessons
+https://example.com/lessons
 שיעורי קייטסרפינג למתחילים ולמתקדמים בחוף מכמורת. תוכניות לימוד מקצועיות ומותאמות אישית לנוער ולמבוגרים. קייטסרפינג לנוער ולכל הגילאים – הירשמו לשיעור הראשון שלכם!
 
 ### אודות
-https://-adc62bb6.zappy5.app/about
+https://example.com/about
 גלישולה נולדה מתוך אהבה עמוקה לים ולרוח בחוף מכמורת. הכירו את הצוות המקצועי שלנו, את הערכים שמניעים אותנו ואת החזון שהפך אותנו לבית הספר המוביל לקייטסרפינג בישראל.
 
 ### צור קשר
-https://-adc62bb6.zappy5.app/contact
+https://example.com/contact
 רוצים לדעת עוד על שיעורי קייט סרפינג בחוף מכמורת? השאירו פרטים ונחזור אליכם במהירות. הצוות שלנו זמין לענות על כל שאלה ולעזור לכם להתחיל את מסע הקייטסרפינג שלכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-adc62bb6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-adc62bb6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-adc62bb6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-adc62bb6.zappy5.app/contact
-- Endpoint: https://-adc62bb6.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ A surf and kitesurfing school located in Michmoret, Israel, offering kitesurfing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-adc62bb6.zappy5.app/sitemap.xml
-- Robots: https://-adc62bb6.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-adc62bb6.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
