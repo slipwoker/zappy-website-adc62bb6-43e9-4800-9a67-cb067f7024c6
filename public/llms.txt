@@ -1,0 +1,82 @@
+# גלישולה — Generative Engine Optimization Map
+
+> A surf and kitesurfing school located in Michmoret, Israel, offering kitesurfing lessons to participants aged 13 and above. The brand revolves around the thrill of water sports, coastal lifestyle, and outdoor adventure. The school caters to a broad age range, suggesting an inclusive and energetic atmosphere suited for teens and adults alike.
+
+---
+
+## Pages
+
+### בית
+https://-adc62bb6.zappy5.app
+גלישולה בחוף מכמורת – בית הספר המוביל לקייטסרפינג בישראל. שיעורי קייט סרפינג לגילאי 13 ומעלה בסביבה ימית מדהימה. הצטרפו למהפכת הגלישה שלנו עוד היום!
+
+### שיעורים
+https://-adc62bb6.zappy5.app/lessons
+שיעורי קייטסרפינג למתחילים ולמתקדמים בחוף מכמורת. תוכניות לימוד מקצועיות ומותאמות אישית לנוער ולמבוגרים. קייטסרפינג לנוער ולכל הגילאים – הירשמו לשיעור הראשון שלכם!
+
+### אודות
+https://-adc62bb6.zappy5.app/about
+גלישולה נולדה מתוך אהבה עמוקה לים ולרוח בחוף מכמורת. הכירו את הצוות המקצועי שלנו, את הערכים שמניעים אותנו ואת החזון שהפך אותנו לבית הספר המוביל לקייטסרפינג בישראל.
+
+### צור קשר
+https://-adc62bb6.zappy5.app/contact
+רוצים לדעת עוד על שיעורי קייט סרפינג בחוף מכמורת? השאירו פרטים ונחזור אליכם במהירות. הצוות שלנו זמין לענות על כל שאלה ולעזור לכם להתחיל את מסע הקייטסרפינג שלכם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-adc62bb6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-adc62bb6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-adc62bb6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-adc62bb6.zappy5.app/contact
+- Endpoint: https://-adc62bb6.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `phone` (tel)
+  - `email` (email, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About גלישולה
+A surf and kitesurfing school located in Michmoret, Israel, offering kitesurfing lessons to participants aged 13 and above. The brand revolves around the thrill of water sports, coastal lifestyle, and outdoor adventure. The school caters to a broad age range, suggesting an inclusive and energetic atmosphere suited for teens and adults alike.
+
+## Services/Products
+- שיעורי קייט סרפינג
+
+## Target Audience
+- אנשים מגיל 13 ומעלה
+- נוער חובבי הרפתקאות
+- מבוגרים צעירים פעילים
+- צעירים בני 25
+
+## Industry
+ספורט ימי / חינוך ספורט
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-adc62bb6.zappy5.app/sitemap.xml
+- Robots: https://-adc62bb6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-adc62bb6.zappy5.app/llms-full.txt
