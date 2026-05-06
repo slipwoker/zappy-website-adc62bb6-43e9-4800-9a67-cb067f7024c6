@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://glishula.zappy5.app
 גלישולה בחוף מכמורת – בית הספר המוביל לקייטסרפינג בישראל. שיעורי קייט סרפינג לגילאי 13 ומעלה בסביבה ימית מדהימה. הצטרפו למהפכת הגלישה שלנו עוד היום!
 
 ### שיעורים
-https://example.com/lessons
+https://glishula.zappy5.app/lessons
 שיעורי קייטסרפינג למתחילים ולמתקדמים בחוף מכמורת. תוכניות לימוד מקצועיות ומותאמות אישית לנוער ולמבוגרים. קייטסרפינג לנוער ולכל הגילאים – הירשמו לשיעור הראשון שלכם!
 
 ### אודות
-https://example.com/about
+https://glishula.zappy5.app/about
 גלישולה נולדה מתוך אהבה עמוקה לים ולרוח בחוף מכמורת. הכירו את הצוות המקצועי שלנו, את הערכים שמניעים אותנו ואת החזון שהפך אותנו לבית הספר המוביל לקייטסרפינג בישראל.
 
 ### צור קשר
-https://example.com/contact
+https://glishula.zappy5.app/contact
 רוצים לדעת עוד על שיעורי קייט סרפינג בחוף מכמורת? השאירו פרטים ונחזור אליכם במהירות. הצוות שלנו זמין לענות על כל שאלה ולעזור לכם להתחיל את מסע הקייטסרפינג שלכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://glishula.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://glishula.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://glishula.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://glishula.zappy5.app/contact
+- Endpoint: https://glishula.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ A surf and kitesurfing school located in Michmoret, Israel, offering kitesurfing
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://glishula.zappy5.app/sitemap.xml
+- Robots: https://glishula.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://glishula.zappy5.app/llms-full.txt
